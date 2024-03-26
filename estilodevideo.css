@@ -1,0 +1,10 @@
+@media(max-width:600px) {
+	
+    .video {
+        position: relative;
+        width: 350px;
+        height: 800px;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+}
